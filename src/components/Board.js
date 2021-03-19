@@ -1,10 +1,10 @@
 // // you will always need to import React from react
 // // import {Component} when building a class component
 import React, {Component} from 'react';
+
 // // importing our CSS file from src>css
 import '../css/Board.css';
 import Movie from './Movie';
-import { BrowserRouter } from 'react-router-dom';
 
 class Board extends Component {
     // // constructor method available to us in class components

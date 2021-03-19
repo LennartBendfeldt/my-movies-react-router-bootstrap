@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import '../css/Movie.css';
 import PropTypes from 'prop-types';
-import { BrowserRouter } from 'react-router-dom';
 
 const GENERIC_MOVIE_TITLE = "New Movie Title", GENERIC_MOVIE_SYNOPSIS = "New Movie Synopsis", GENERIC_MOVIE_YEAR = "New Movie Year", GENERIC_MOVIE_GENRE = "New Movie Genre";
 
